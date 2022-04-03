@@ -10,6 +10,7 @@
 
 # production
 /build
+/userdata
 
 # misc
 .DS_Store
